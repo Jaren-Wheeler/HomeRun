@@ -1,0 +1,21 @@
+# Env files (secrets)
+.env
+.env.*
+
+# Docker
+*.log
+docker-data/
+postgres_data/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+.vs/
+
+# .NET build output
+**/bin/
+**/obj/
